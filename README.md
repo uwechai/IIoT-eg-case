@@ -2,7 +2,7 @@
 Practical application of the example case documented in Thesis titled "Comparing IT Architectures for IoT implementations in Manufacturing" by Chai Wadhai
 
 This project is a simulation of a production shopfloor. There are three sensors in the shopfloor: light-sensor-1,2,3 and a shop floor server: server.js. The sensors generate data 
-which is sent to test mqtt broker provided by mosquitto. The shopfloor collects and uploads data to the cloud.
+which is sent to test mqtt broker provided by mosquitto. The shopfloor collects and uploads data to the cloud. The business application: counter-app.js (backend api) + counter-app-frontend displays the aggregated data for the employees. 
 
 Requirements- 
 1. Node >= 12.16.2
