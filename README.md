@@ -38,8 +38,7 @@ Instructions to set up the system-
     node server.js
     
 6. To turn the sensors on run\
-    node light-sensor-x\ 
-    ...(x is sensor number 1,2 or 3)\
+    node light-sensor-x                   ...(x is sensor number 1,2 or 3)\
     each in 3 separate terminals.
 
 Once the setup is completed, the sensors will produced data every 10 seconds which will finally be displayed in the Web application at port 3000. The application refreshes the data from the database at every 10 seconds.
