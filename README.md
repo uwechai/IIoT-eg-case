@@ -16,7 +16,7 @@ Instructions to set up the system-
       
 2. Run\
     npm install\
-   in the project folder\
+   in the project folder
    
 3. Navigate to the folder "counter-app-frontend" and run\
     npm install
