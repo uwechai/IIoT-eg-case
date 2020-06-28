@@ -8,7 +8,7 @@ Requirements-
 1. Node >= 12.16.2
 2. MongoDB atlas cluster
 
-Tip- use a multi tab CLI Terminal like Hyper [a link](https://hyper.is) as we will require many terminal instances.
+Tip- use a multi tab CLI Terminal like  [Hyper](https://hyper.is) as we will require many terminal instances.
 
 Instructions to set up the system-
 1. Clone the project folder on your pc using
